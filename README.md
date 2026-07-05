@@ -68,7 +68,6 @@ and FastHTML for the dashboard interface.
 
 └── test_employee_events.py
 
-
 ## Database Schema (employee_events.db)
 ```mermaid
 erDiagram
